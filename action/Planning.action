@@ -1,0 +1,10 @@
+# definition of the process goal
+float32 x
+float32 y
+float32 theta
+---
+# definition of the process result
+bool result
+---
+#definition of the feedback status
+string status
