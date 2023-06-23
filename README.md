@@ -23,3 +23,6 @@ run the command below to launch the simulation and all the required nodes.
 run the command to open jupyter notebook.
 ```jupyter notebook --allow-root```
 and open the notebook named as **jupyter_4904540.ipynb** .
+
+## Simulation:
+https://github.com/mbugti/RT2_Assignment2/blob/main/imgs/Screenshot_2023-06-22_18-02-40.png
