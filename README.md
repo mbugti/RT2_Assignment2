@@ -25,4 +25,4 @@ run the command to open jupyter notebook.
 and open the notebook named as **jupyter_4904540.ipynb** .
 
 ## Simulation:
-https://github.com/mbugti/RT2_Assignment2/blob/main/imgs/Screenshot_2023-06-22_18-02-40.png
+<img src="https://github.com/mbugti/RT2_Assignment2/blob/main/imgs/Screenshot_2023-06-22_18-02-40.png ">
